@@ -1,0 +1,6 @@
+model,accuracyPct,sizeMB,latencyMsBatch1,throughputImgPerSec
+fp32,91.9,44.69,10.997,94.7
+ptqInt8,88.02,11.29,6.142,152.2
+qatInt8,91.74,44.85,23.96,66.9
+unstructured,92.15,44.69,10.873,94.3
+structured,92.13,22.71,5.18,185.0
